@@ -1,0 +1,211 @@
+@media screen and (max-width: 767px){
+    .masthead{
+        min-height: 14rem;
+    }
+    .content-section{
+                padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    }
+    .content-section-heading h2{
+        font-size: 25px;
+    }
+    .mobile-show{
+        display: block;
+    }
+    .mobile-hide{
+        display: none;
+    }
+    .js-scroll-trigger{
+            font-size: 13px!important;
+            padding: 5px 20px!important;
+    }
+    .service-icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .mb-1{
+        font-size: 22px!important;
+    }
+    .templatemo-slogan{
+        font-size: 22px!important;
+    }
+    .name, .age, .Mon{
+        font-size: 12px;
+    }
+    #addLesson .text-title{
+        font-size: 24px;
+    }
+    #addLesson .border-col{
+        margin-top: 44px;
+    }
+    #addLesson .row.pad-60{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .lesson-mobile-bottom{
+        margin-bottom: 30px;
+    }
+    .btn-lesson {
+        width: 250px;
+    }
+    .col-10-edit{
+        width: 80%;
+    }
+    .col-2-edit{
+        width: 20%;
+    }
+    .lesson-btn-title{
+            position: relative;
+    left: 0px;
+    top: 0px;
+    }
+            #sidebar-wrapper.active{
+            width: 90%;
+            z-index: 9999;
+        }
+        .menu-toggle{
+                left: 315px;
+                width: 40px;
+                height: 40px;
+        }
+        .menu-toggle.rounded{
+            display: flex;
+            justify-content: center;
+            align-items: center;;
+        }
+        #sidebar-wrapper img{
+            max-width: 6%;
+        }
+
+        .masthead img{
+            height: 200px;
+        }
+        .templatemo-service-item{
+            border-radius: 10px!important;
+        }
+        .templatemo-service{
+            padding-top: 50px!important;
+            padding-bottom: 50px!important;
+        }
+        .btn-orange{
+            font-size: 13px!important;
+        }
+        .vanhoc-flex{
+            display: flex;
+            justify-content: center;
+            align-items: center;;
+        }
+        .templatemo-service-item{
+            padding: 20px;
+        }
+        p.templatemo-service-item-header{
+            height: 37px!important;
+            padding: 0px 10px!important;
+        }
+        .height-col-vanhoc{
+            height: auto!important;
+        }
+        #add-lesson .btn-background-green{
+            width: 80%;
+        }
+        #add-lesson .choosen-courses tr {
+            display: grid;
+        }
+        #add-lesson.pad-60{
+            padding-top: 0px;
+            padding-bottom: 0px;
+        }
+        .mb-1{
+            font-size: 18px!important;
+        }
+        .masthead-more .btn-get-started{
+            width: 106px;
+        }
+        .masthead-more{
+                height: 54px!important;
+        }
+        #addLesson .text-title{
+            font-size: 20px;
+            margin-left: 10px;
+            font-weight: 600;
+        }
+        #addLesson .lesson-btn-title{
+            left: 0px;
+            top: -3px;
+            width: 40px;
+            height: 40px;
+        }
+        #addLesson i.fa-sign-out{
+            font-size: 24px!important;
+        }
+        #addLesson .col-12.border-col{
+                max-width: 91%;
+                margin: 20px auto;
+        }
+        #addLesson .do-homework{
+                            max-width: 97%;
+                margin: 20px auto;
+        }
+        #addLesson .border-comment{
+            max-width: 90%;
+                margin: 20px auto;
+        }
+        #addLesson .pad-60{
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        .mr-b-10{
+            margin-bottom: 10px;
+        }
+        #add-lesson .choosen-courses .table td{
+            padding-left: 32px!important;
+        }
+        #vanhoc .templatemo-service-item{
+            box-shadow: 0px 5px 12px 5px #999;
+        }
+        .text-center-mobile{
+            text-align: center;
+        }
+        #dialy .dialy-item-border{
+            max-width: 85%;
+        }
+        .tree .triangle{
+            margin-left: 9%;
+            width: 0;
+            height: 0;
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            border-top: 26px solid #98d361;
+        }
+        .tree .cd-timeline-content, .tree .cd-timeline-block .projects{
+            margin-left: 40px;
+             padding-bottom: 0px;
+             margin-top: 10px;
+             margin-bottom: 30px;
+        }
+        .menu-toggle{
+            z-index: 9999999;
+        }
+        .statictisItem{
+            width: 50%;
+        }
+        .statictisTitleHTML{
+            font-size: 15px;
+        }
+        .title-panel{
+            font-size: 25px;
+            margin-bottom: 20px;
+        }
+        .masthead .btn-get-started{
+            height: 30px;
+            width: 180px;
+        }
+        .carousel-caption{
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+        .carousel-indicators li{
+            display: none;
+        }
+}
